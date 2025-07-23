@@ -1,0 +1,20 @@
+# 🏦 Banking Customer Insights Dashboard
+
+A complete end-to-end **data analysis and dashboard project** using **MySQL**, **Python**, and **Power BI**.
+
+## 📊 Project Objective
+
+To analyze banking customer data to uncover actionable insights into:
+- Customer demographics
+- Loan and deposit product usage
+- Risk-weighting and tenure analysis
+
+## 🔧 Tools Used
+- MySQL, Python (pandas, seaborn, matplotlib)
+- Power BI
+- GitHub for version control
+
+## 🧾 What’s Inside
+- 📂 Python Analysis (`banking_analysis.py`)
+- 📈 Dashboard Screenshots (Loan, Deposit, Summary)
+- 📘 Final Report PDF
